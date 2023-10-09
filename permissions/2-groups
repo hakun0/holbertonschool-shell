@@ -1,2 +1,3 @@
+#!/bin/bash
 import subprocess
 print(subprocess.check_output(["groups"]).decode().strip())
