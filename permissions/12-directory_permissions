@@ -1,0 +1,3 @@
+#!/bin/bash
+vi my_dir
+chmod 751
